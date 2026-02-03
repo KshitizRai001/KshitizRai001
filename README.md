@@ -1,7 +1,7 @@
 # About Me:
 Hey, I am Kshitiz Rai
 
-I do competitive programming sometimes and also am currently learning/using ML for daily tasy and solve problems
+I do competitive programming sometimes and also am currently learning/using ML for daily tasks and to solve real world problems
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitizrai-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kshitizrai06@gmail.com) [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kshitiz__rai)
